@@ -1,6 +1,6 @@
 # EchoClock
 ;A clock that talks. 
-..........................................................................
+
 Een toegankelijk auditief tijdsapparaat voor blinden en slechtzienden
 
 EchoClock is een open-source hulpmiddel dat met één druk op de knop de huidige tijd hoorbaar uitspreekt, zonder internet en zonder visuele bediening.
