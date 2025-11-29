@@ -26,6 +26,7 @@ Doelgroep:
 * DFPlayer -> Mini	Audio playback
 * DS3231 RTC ->	Tijdregistratie
 * 3.7V LiPo	-> Voeding
+* MT3608 -> 3.7V naar 5V booster
 * TP4056	-> Batterijlader
 * Speaker	-> Audio output
 * Drukknop ->	Input
