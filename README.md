@@ -21,11 +21,11 @@ Doelgroep:
 * Compact & draagbaar
 
 🛠️ Hardware componenten
-Component	-> Functie
-ESP32-C3 Super mini ->	Microcontroller
-DFPlayer -> Mini	Audio playback
-DS3231 RTC ->	Tijdregistratie
-3.7V LiPo	-> Voeding
-TP4056	-> Batterijlader
-Speaker	-> Audio output
-Drukknop ->	Input
+* Component	-> Functie
+* ESP32-C3 Super mini ->	Microcontroller
+* DFPlayer -> Mini	Audio playback
+* DS3231 RTC ->	Tijdregistratie
+* 3.7V LiPo	-> Voeding
+* TP4056	-> Batterijlader
+* Speaker	-> Audio output
+* Drukknop ->	Input
